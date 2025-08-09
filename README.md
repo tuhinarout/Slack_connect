@@ -33,4 +33,4 @@ A full-stack web application that allows users to:
 
 ---
 
-## 📂 Project Structure
+
